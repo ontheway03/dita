@@ -17,9 +17,8 @@ Doxygen 就是在您写批注时，稍微按照一些它所制订的规则。接
 
 ## Doxygen主界面Project配置
 
-![image-20210330204458962](C:\Users\yangpei\AppData\Roaming\Typora\typora-user-images\image-20210330204458962.png)
+![cFXHwd.png](https://z3.ax1x.com/2021/03/31/cFXHwd.png)
 
-![image-20210330204458962](C:\Users\yangpei\AppData\Roaming\Typora\typora-user-images\image-20210330204458962.png)
 
 说明：
 
