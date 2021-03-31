@@ -1,4 +1,4 @@
-
+[TOC]
 
 # 什么是Doxygen
 
@@ -9,7 +9,7 @@ Doxygen 就是在您写批注时，稍微按照一些它所制订的规则。接
 
 # 安装Doxygen
 
-在https://www.doxygen.nl/download.html#srcbin 中，根据具体操作系统选择具体的Doxygen版本。
+在https://www.doxygen.nl/download.html#srcbin中，根据具体操作系统选择具体的Doxygen版本。
 
 此处以windows为例说明https://doxygen.nl/files/doxygen-1.9.1-setup.exe。
 
@@ -24,7 +24,7 @@ Doxygen 就是在您写批注时，稍微按照一些它所制订的规则。接
 
 - Doxygen 工作目录，就是用来存放配置文件的目录。
 
--  递归搜索源文件目录需要选上。
+- 递归搜索源文件目录需要选上。
 
 ## Doxygen主界面Output配置
 
@@ -150,4 +150,3 @@ Build页面：生成帮助信息中比较关键的配置页面：
 在output目录下可以看到html和letex文件夹
 
 ![cFXxl8.md.png](https://z3.ax1x.com/2021/03/31/cFXxl8.md.png)
-
