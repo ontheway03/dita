@@ -8,7 +8,7 @@ Doxygen 就是在您写批注时，稍微按照一些它所制订的规则。接
 
 # 安装Doxygen
 
-在https://www.doxygen.nl/download.html#srcbin中，根据具体操作系统选择具体的Doxygen版本。
+在https://www.doxygen.nl/download.html#srcbin 中，根据具体操作系统选择具体的Doxygen版本。
 
 此处以windows为例说明https://doxygen.nl/files/doxygen-1.9.1-setup.exe。
 
